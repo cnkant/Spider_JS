@@ -1,2 +1,2 @@
 # Spider_JS
-decoding JS for web crawler
+decoding JS for the web crawler
